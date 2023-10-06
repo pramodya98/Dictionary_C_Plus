@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Dictionary1.cpp
+C:\Users\Praneeth Senadheera\Desktop\2 Semester\C++\Assignment\New folder\Senadheera_10556536\Assignment 1\Dictionary1.cpp(64,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Basic.cpp
+  WordS.cpp
+  Generating Code...
+  final pro1.vcxproj -> C:\Users\Praneeth Senadheera\Desktop\2 Semester\C++\Assignment\New folder\Senadheera_10556536\Assignment 1\x64\Debug\final pro1.exe
